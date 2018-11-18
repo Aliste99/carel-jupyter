@@ -31,9 +31,9 @@ www.youtube.com/watch?v=OEAP5z3hWDE
 
 Так же разбираем что такое оператор if, цикл while, работаем с top bown dessign. 
 
-Создание простого метода - www.youtube.com/watch?v=mi5mwOIynAg
-if - www.youtube.com/watch?v=WWRkSEwsu7E
-while - www.youtube.com/watch?v=UGsOX9TAm00
-top bown design - www.youtube.com/watch?v=-PY_N4quuTQ
+- Создание простого метода - www.youtube.com/watch?v=mi5mwOIynAg
+- if - www.youtube.com/watch?v=WWRkSEwsu7E
+- while - www.youtube.com/watch?v=UGsOX9TAm00
+- top bown design - www.youtube.com/watch?v=-PY_N4quuTQ
 
 
